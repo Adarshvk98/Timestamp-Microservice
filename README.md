@@ -1,5 +1,5 @@
 
-##### Timestamp Microservice for FCC #####
+# Timestamp Microservice for FCC #####
 
 ### User stories :
 
